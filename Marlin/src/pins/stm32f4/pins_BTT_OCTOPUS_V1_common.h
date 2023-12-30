@@ -246,7 +246,7 @@
 #define FAN2_PIN                            PD12  // Fan2
 #define FAN3_PIN                            PD13  // Fan3
 #define FAN4_PIN                            PD14  // Fan4
-#define FAN5_PIN                            PD15  // Fan5
+//#define FAN5_PIN                            PD15  // Fan5
 
 //
 // SD Support
